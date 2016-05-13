@@ -4,5 +4,5 @@
 
 Cmdlets   
 
-* Expand-ZIPFile ----- Unzips (Expands) a zip file   
+* **Expand-ZIPFile** ----- Unzips (Expands) a zip file   
 
